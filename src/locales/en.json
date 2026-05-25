@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "home": "HOME",
+    "services": "SERVICES",
+    "portfolio": "PORTFOLIO",
+    "contact": "CONTACT"
+  },
+  "hero": {
+    "headline": "CAPTURING VISUALS. BUILDING BROWSER EXPERIENCES.",
+    "photography": "PHOTOGRAPHY",
+    "videography": "VIDEOGRAPHY",
+    "webDev": "WEB DEV",
+    "description": "Multidisciplinary creator crafting visual stories and digital experiences that push boundaries and captivate audiences.",
+    "viewWork": "VIEW WORK",
+    "getInTouch": "GET IN TOUCH"
+  },
+  "services": {
+    "subtitle": "WHAT I DO",
+    "title": "SERVICES",
+    "photography": {
+      "title": "PHOTOGRAPHY",
+      "subtitle": "Visual Storytelling",
+      "description": "Capturing moments through a lens that speaks volumes. From product shoots to editorial work, every frame tells a story.",
+      "features": ["Product Photography", "Editorial Shoots", "Portrait Sessions", "Event Coverage"]
+    },
+    "videography": {
+      "title": "VIDEOGRAPHY",
+      "subtitle": "Motion Pictures",
+      "description": "Bringing narratives to life through cinematic motion. Documentary, commercial, and creative video production.",
+      "features": ["Brand Films", "Documentaries", "Music Videos", "Commercial Ads"]
+    },
+    "webDevelopment": {
+      "title": "WEB DEVELOPMENT",
+      "subtitle": "Digital Experiences",
+      "description": "Building immersive browser experiences with cutting-edge technologies. Design that converts, code that scales.",
+      "features": ["Custom Websites", "Web Applications", "E-Commerce", "UI/UX Design"]
+    }
+  },
+  "portfolio": {
+    "subtitle": "SELECTED WORK",
+    "title": "PORTFOLIO",
+    "filters": {
+      "all": "ALL",
+      "photography": "PHOTOGRAPHY",
+      "videography": "VIDEOGRAPHY",
+      "webDev": "WEB DEV"
+    },
+    "items": {
+      "urbanLandscapes": "Urban Landscapes",
+      "brandStory": "Brand Story Film",
+      "ecommercePlatform": "E-Commerce Platform",
+      "portraitSession": "Portrait Session",
+      "documentaryShort": "Documentary Short",
+      "portfolioWebsite": "Portfolio Website",
+      "streetPhotography": "Street Photography",
+      "musicVideo": "Music Video",
+      "saasDashboard": "SaaS Dashboard"
+    },
+    "viewAll": "VIEW ALL PROJECTS"
+  },
+  "contact": {
+    "subtitle": "GET IN TOUCH",
+    "title": "CONTACT",
+    "headline": "Let's Create Something ",
+    "headlineHighlight": "Amazing",
+    "description": "Whether you need stunning photography, captivating video content, or a cutting-edge web experience, I'm here to bring your vision to life. Let's discuss your next project.",
+    "labels": {
+      "name": "NAME",
+      "email": "EMAIL",
+      "subject": "SUBJECT",
+      "message": "MESSAGE"
+    },
+    "placeholders": {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "subject": "Project Inquiry",
+      "message": "Tell me about your project..."
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location"
+    },
+    "send": "SEND MESSAGE"
+  },
+  "footer": {
+    "copyright": "© 2026 Studio. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
